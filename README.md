@@ -10,12 +10,11 @@ I have a strong foundation in **Python** and currently learning **Node.js**, and
 
 ## 🔍 What You'll Find Here  
 - 🏗 **Portfolio Projects** – Backend & machine learning projects  
-- 🎮 **Python Experiments** – Fun coding projects, including games & algorithms  
+- 🎮 **Python - JS Experiments** – Fun coding projects, including games & algorithms  
 - 📊 **Data Science Notebooks** – Exploratory data analysis, visualizations & more  
 - 💡 **Ongoing Learning** – New skills, tools, and experiments  
 
 ## 💬 Let's Connect!  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sergio-avalos-1b6906352/  
 - 📧 **Contact:** sergioalfonso_20@hotmail.com
 
 Feel free to check out my projects, open an issue, or just say hi! 
