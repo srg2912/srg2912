@@ -51,14 +51,6 @@ Today, I bridge that hardware foundation with **Software Engineering and Artific
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srg2912&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srg2912&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
-
----
-
 ### 🏆 Certifications & Languages
 - **English:** C2 Proficient (EF SET)
 - **Italian:** C2 Proficient
