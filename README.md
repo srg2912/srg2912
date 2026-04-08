@@ -62,6 +62,6 @@ Today, I bridge that hardware foundation with **Software Engineering and Artific
 ### 📫 Let's Connect!
 - **Email:** [sergioalfonso_20@hotmail.com](mailto:sergioalfonso_20@hotmail.com)
 - **Phone:** +39 3517764904
-- **Portfolio:** [Visit My CV Site](your-website-link-here)
+- **Portfolio:** [Visit My CV Site](https://sergio-avalos.onrender.com/index.html)
 
 *"Hardware is the body, software is the mind. I work with both."*
